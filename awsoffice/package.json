@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fixer": "0.0.2",
     "mariadb": "^2.3.1",
     "mysql": "^2.18.1",
